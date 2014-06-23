@@ -1,0 +1,15 @@
+---
+title: "Ajay Gopinath - Thoughts"
+layout: default
+type: thoughts
+---
+<h1>Thoughts</h1>
+<p>A compilation of my musings on people, places, things, ideas, etc.<p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+	</br>
+  {% endfor %}
+</ul>

@@ -22,10 +22,10 @@
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-a:link {
+#sidebar a:link {
     text-decoration: none;
 }
 
-a:visited {
+#sidebar a:visited {
     text-decoration: none;
 }
