@@ -3,11 +3,13 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/site.css">
+		<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico" />
 	</head>
 	<body>
 		<div id="header_line"></div>
 		<div id="container">
 			<div id="sidebar">
+				<a href={{site.home}}><img src="assets/web_logo_32x32.png" alt="" height="32" width="32"></a>
 				<a class="sb_text" href="index.html">
 					{% if page.type == "me" %}
 						<b>me</b>
