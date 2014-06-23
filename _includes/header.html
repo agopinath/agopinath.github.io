@@ -2,29 +2,29 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/site.css">
-		<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="{{site.url}}/site.css">
+		<link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/assets/favicon.ico" />
 	</head>
 	<body>
 		<div id="header_line"></div>
 		<div id="container">
 			<div id="sidebar">
-				<a href={{site.home}}><img src="assets/web_logo_32x32.png" alt="" height="32" width="32"></a>
-				<a class="sb_text" href="index.html">
+				<a href={{site.url}}><img src="{{site.url}}/assets/web_logo_32x32.png" alt="" height="32" width="32"></a>
+				<a class="sb_text" href="{{site.url}}/index.html">
 					{% if page.type == "me" %}
 						<b>me</b>
 					{% else %}
 						me
 					{% endif %}
 				</a>
-				<a class="sb_text" href="projects.html">
+				<a class="sb_text" href="{{site.url}}/projects.html">
 					{% if page.type == "projects" %}
 						<b>projects</b>
 					{% else %}
 						projects
 					{% endif %}
 				</a>
-				<a class="sb_text" href="thoughts.html">
+				<a class="sb_text" href="{{site.url}}/thoughts.html">
 					{% if page.type == "thoughts" %}
 						<b>thoughts</b>
 					{% else %}
