@@ -11,4 +11,6 @@ I've also worked as a bioinformatics intern as part of UCLA's [Rowat Lab](https:
 
 As a competitive swimmer and avid athlete, I'm only a part-time nerd. Or try to be.
 
+Reach me at [ajay.gopinath@outlook.com](mailto:ajay.gopinath@outlook.com).
+
 ![A pic of me](/assets/Profile.jpg)
