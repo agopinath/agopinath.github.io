@@ -1,3 +1,7 @@
+body {
+    background-color: #FFFFF4;
+}
+
 .container { position:relative; padding:0 0 0 55px; }
 
 #header_line {
@@ -18,14 +22,17 @@
 
 #content {;
     margin:37px 0px 0px 100px;
-    width: 35%;
+    max-width:500px;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 15px;
 }
 
 #sidebar a:link {
     text-decoration: none;
+    color: #0000EE;
 }
 
 #sidebar a:visited {
     text-decoration: none;
+    color: #0000EE;
 }
