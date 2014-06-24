@@ -1,3 +1,6 @@
+---
+title: "Ajay Gopinath"
+---
 Hey, I'm Ajay
 ==============
 A student at Monta Vista High School in Cupertino, I'm stoked to have worked on what I've worked on, and to be working on what I'm working on. My interests and pursuits are divided broadly into software/programming and academic research. 
