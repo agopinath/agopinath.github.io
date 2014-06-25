@@ -1,9 +1,9 @@
 ---
 title: "Ajay Gopinath"
 ---
-Hey, I'm Ajay
+Hey, I'm Ajay.
 ==============
-A student at Monta Vista High School in Cupertino, I'm stoked to have worked on what I've worked on, and to be working on what I'm working on. My interests and pursuits are divided broadly into software/programming and academic research. 
+I'm a student at Monta Vista High School in Cupertino, stoked to have worked on what I've worked on, and to be working on what I'm working on. My interests and pursuits are divided broadly into software/ programming and academic research. 
 
 I've contributed to the open-source web-conferencing system [Big Blue Button](http://bigbluebutton.org/) as part of the [Learn To Be Foundation](http://www.learntobe.org/), and I've continued as a systems admin for LTB on the side. I've also consulted for [School Loop](http://www.schoolloop.com/) on the UI/UX of their own mobile app based on feedback received for [my own](https://play.google.com/store/apps/details?id=com.cyanojay.looped). I adore leading the [Java club](http://www.mvjavaclub.com/) at my school where I lecture students weekly on various, fascinating topics in computer science and their application (club name is legacy and a misnomer! Will be rebranded soon).
 
