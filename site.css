@@ -21,18 +21,18 @@
 }
 
 #sidebar {
-    position:absolute;
-    top:10px; bottom:0; left:15;
+    position: fixed;
+    top:10px; bottom:0px; left:10px;
     width:50px;
     font-family: Verdana, Geneva, sans-serif;
 }
 
-#content {;
+#content {
     margin:37px 0px 0px 100px;
     max-width:450px;
     font-family: Georgia, Georgia, serif;
     /*"Palatino Linotype", "Book Antiqua", Palatino, serif;*/
-    font-size: 14px;
+    font-size: 16px;
 }
 
 #sidebar a {
@@ -48,3 +48,4 @@
 #sidebar a:hover {
     text-decoration: underline;
 }
+
