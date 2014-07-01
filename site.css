@@ -30,11 +30,12 @@
 #content {;
     margin:37px 0px 0px 100px;
     max-width:450px;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: Georgia, Georgia, serif;
+    /*"Palatino Linotype", "Book Antiqua", Palatino, serif;*/
     font-size: 14px;
 }
 
-#sidebar a:link {
+#sidebar a {
     text-decoration: none;
     color: #0000EE;
 }
@@ -42,4 +43,8 @@
 #sidebar a:visited {
     text-decoration: none;
     color: #0000EE;
+}
+
+#sidebar a:hover {
+    text-decoration: underline;
 }
