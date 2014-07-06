@@ -1,2 +1,3 @@
 name: "Ajay Gopinath"
 markdown: kramdown
+permalink: /post/:title.html
