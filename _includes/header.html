@@ -45,4 +45,13 @@
 				</a>
 			</div>
 
-			<div id="content">	
+			<div id="content">
+			<div id="page-header">
+				{% if page.permalink %}
+					<a href="{{site.url}}/{{page.permalink}}">
+				{% else %}	
+					<a href="{{page.url}}">
+				{% endif %}
+					<h1>{{page.header}}</h1>
+				</a>
+			</div>

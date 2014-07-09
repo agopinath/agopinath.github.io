@@ -1,11 +1,9 @@
 ---
 title: "My Summer Programming"
+header: "My Summer Programming"
 layout: default
 type: thoughts
 ---
-{{page.title}}
-===============
-
 _This reflection was written shortly after completing the project in the summer of my freshman year of high school. Any apparent angst has since been replaced by gratitutde for having this opportunity to do something fruitful and impactful during the summer! Here it is, unedited. And thank you, LTB!_
 
 This summer I worked on web-conferencing system for a non-profit organization called The Learn To Be Foundation that helps tutor unprivileged students across the U.S. across the Internet. My project started out with everyone&#39;s hopes high, including mine, and my optimistic outlook on how awesome this project was going to be. My naive self had no idea how much commitment and grueling hours of work would be put into what at first seemed nothing more than something to pass time during the summer. If only I could go back in time and tell myself I was in for a surprise, I might&#39;ve been more prepared. 
