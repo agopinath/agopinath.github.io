@@ -3,7 +3,7 @@
 #header_line {
 	position: absolute;
 	top:0; left:0;
-    height: 4px;
+    height: .33em;
     background-color: #567FCE;
     width:100%;
 }
@@ -37,7 +37,7 @@
 }
 
 #content {
-    margin:37px 0px 0px 90px;
+    margin:37px 0px 0px 80px;
     max-width:450px;
     font-family: 'PT Sans', sans-serif; /*"Palatino Linotype", "Book Antiqua", Palatino, serif;*/
     font-size: 16px;
