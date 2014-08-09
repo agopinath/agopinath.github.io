@@ -28,7 +28,7 @@ _Hmm...yeah that could work. School wouldn&#39;t be too busy at the start so I c
 
 &quot;Oh! Would you like some chocolates? Just got back from a trip to __________.&quot; She picked up off the ground a small, semi-full box -- the kind used to hold artificial sweeteners.
 
-&quot;Hmmm?&quot; I stared. &quot;Oh, uh yeah, sure!&quot; I said, maybe with a little too much enthusiasm, as she poured some chocolates into a Target bag. _Awkward. Should I have refused? Am I weird for accepting the PI&#39;s chocolates?_ The grad students just smiled. _Weren&#39;t we here to talk intense science-y talk? Well, we did, but still. What&#39;s with the chocolates?_
+&quot;Hmmm?&quot; I stared. &quot;Oh, uh yeah, sure!&quot; I said, maybe with a little too much enthusiasm, as she poured some chocolates into a Target bag. Uhh, should I have refused? Am I weird for accepting the PI&#39;s chocolates?_ The grad students just smiled. _Weren&#39;t we here to talk intense science-y talk? Well, we did, but still. What&#39;s with the chocolates?_
 
 - - -
 
