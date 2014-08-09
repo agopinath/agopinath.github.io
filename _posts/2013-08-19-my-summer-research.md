@@ -26,7 +26,7 @@ For instance, back in August 2013...
 
 _Hmm...yeah that could work. School wouldn&#39;t be too busy at the start so I could put in more time for this. Oh man, this is so cool. I&#39;m gonna work so hard on this. So pumped up, can&#39;t believe this is actually happening--_
 
-&quot;Oh! Would you like some chocolates? Just got back from a trip to __________.&quot;[^3] She picked up off the ground a small, semi-full box -- the kind used to hold artificial sweeteners.
+&quot;Oh! Would you like some chocolates? Just got back from a trip to __________.&quot; She picked up off the ground a small, semi-full box -- the kind used to hold artificial sweeteners.
 
 &quot;Hmmm?&quot; I stared. &quot;Oh, uh yeah, sure!&quot; I said, maybe with a little too much enthusiasm, as she poured some chocolates into a Target bag. _Awkward. Should I have refused? Am I weird for accepting the PI&#39;s chocolates?_ The grad students just smiled. _Weren&#39;t we here to talk intense science-y talk? Well, we did, but still. What&#39;s with the chocolates?_
 
@@ -66,7 +66,7 @@ Writing this reflection almost a year after directly talking with Dr. Rowat, I o
 
 Email responses within the hour are the norm, and replies within the minute aren&#39;t unheard of. In these labs, among the best in the world in what they do, the pace of the scientific process and discoveries are everything, and if you can get the information you need _that_ much more quickly and _when_ you actually need it, the better. Aside from that, sheer professionalism plays a part as well.
 
-Besides that, a great academic is adept at communicating research as much as doing the research, which necessitates great salesmanship of a kind: being able to highlight the importance of the research without overselling its consequence.[^4]
+Besides that, a great academic is adept at communicating research as much as doing the research, which necessitates great salesmanship of a kind: being able to highlight the importance of the research without overselling its consequence.[^3]
 
 **Inquisitiveness**
 
@@ -82,5 +82,4 @@ A good academic can find something &quot;interesting&quot; in the seemingly unin
 
 [^1]: Application to processes like cancer metastasis and retinoic acid syndrome. There is potential for discovering drugs which stiffen cancer cells, reducing the probability and rate of their metastasizing/transit through vessels.
 [^2]: Well, maybe not that last part.
-[^3]: Don't remember the place!
-[^4]: Though the results speak for themselves, usually.
+[^3]: Though the results speak for themselves, usually.
