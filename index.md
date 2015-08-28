@@ -11,6 +11,6 @@ I've worked on the open-source [Big Blue Button](http://bigbluebutton.org/) for 
 
 Having participated twice at the [Synopsys Science fair](http://science-fair.org/), I've continued scientific research for the past three years. I was a bioinformatics intern at UCLA's [Rowat Lab](https://www.ibp.ucla.edu/research/rowat/RowatLab.html) to bridge the gap between high-throughput microfluidic devices and their software dependents. I also worked in the [Wall Lab](http://wall-lab.stanford.edu/) at Stanford University, applying computational/mathematical methods to identify auditory biomarkers of autism in toddlers.
 
-As an avid athlete and Bollywood dance enthusiast, I'm only a part-time nerd. Or try to be. Reach me at [ajay.gopinath@outlook.com](mailto:ajay.gopinath@outlook.com)
+As an avid athlete and dance lover, I'm only a part-time nerd. Or try to be. Reach me at [ajay.gopinath@outlook.com](mailto:ajay.gopinath@outlook.com)
 
 ![A pic of me]({{site.url}}/assets/Profile.jpg)
